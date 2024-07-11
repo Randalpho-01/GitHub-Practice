@@ -1,3 +1,38 @@
 body {
     background-color: black;
 }
+.one {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border: solid;
+}
+.two {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: solid;
+}
+
+.three {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: solid;
+}
+
+.four {
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    border: fuchsia;
+    margin: 40px;
+}
+
+.five {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(24, 198, 100);
+    border: double;
+    margin: 40px;
+}
